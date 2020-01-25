@@ -4,7 +4,6 @@
 
 %define		pdir	Text
 %define		pnam	Patch
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::Patch - Patches text with given patch
 Name:		perl-%{pdir}-%{pnam}
 Version:	1.8
